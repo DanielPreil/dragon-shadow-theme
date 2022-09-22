@@ -1,12 +1,12 @@
 {
   "name": "dragon-shadow-theme",
   "displayName": "Dragon Shadow Theme",
-  "description": "Dragon Shadow Theme!",
+  "description": "Wear the Shadow of the Dragon and make your code as fiery as possible.",
   "version": "0.0.1",
-  "publisher": "Daniel Preil",
+  "publisher": "DanielPreil",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielpreil/dragon-shadow-theme.git"
+    "url": "https://github.com/DanielPreil/dragon-shadow-theme"
   },
   "keywords": [
     "theme",
