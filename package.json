@@ -3,6 +3,21 @@
   "displayName": "Dragon Shadow Theme",
   "description": "Dragon Shadow Theme!",
   "version": "0.0.1",
+  "publisher": "Daniel Preil",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielpreil/dragon-shadow-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "orange",
+    "red",
+    "fire",
+    "dragon shadow theme",
+    "dragonshadowtheme",
+    "thedragonshadowtheme"
+  ],
   "engines": {
     "vscode": "^1.71.0"
   },
